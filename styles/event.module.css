@@ -1,0 +1,23 @@
+.label {
+    font-size: 1.6rem;
+    margin-right: 2rem;
+    font-weight: 700;
+}
+
+.event_description {
+    font-size: 1.4rem;
+    margin: 1rem 0;
+}
+
+.input {
+    height: 4rem;
+    width: 20rem;
+    padding-left: .5rem;
+    margin: 1rem;
+    border-radius: .5rem;
+}
+
+.message {
+    font-size: 1.8rem;
+    font-weight: 700;
+}

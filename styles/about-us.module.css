@@ -1,0 +1,12 @@
+
+.about {
+    height: 60rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.about_text {
+    font-size: 1.6rem;
+}
+

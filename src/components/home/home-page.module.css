@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 10rem 3rem;
+}
+
+.main__card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+
+.main__card:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+.main__card_img {
+    border-radius: .2rem;
+}
+
+.main__card_content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
