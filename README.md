@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Events exrsice
+## Events exercise
 
-an exersise to get an idea on how next.js can combine back and front (pretty neat stuff) 
-tthis was made to save emails in a json file. so for that to work you will have to run it locally on your machine.
+an exercise to get an idea on how next.js can combine back and front (pretty neat stuff) 
+this was made to save emails in a json file. so for that to work you will have to run it locally on your machine.
 You can also click the link on the repo to get a general idea of the project but the email stuff won't work!
 
 you can clone the repo and follow the instructions below 
