@@ -14,4 +14,6 @@ My first next.js thing
 2. Node
 Prior to this i had 0 expirience with node, so creating my first api was like woah, and saving stuff in a json was incredible.
 
+ - as you can see it took me quiete a few of attempts to get it working on vercel haha, it was a bit of a trail an error thing, but that's ok, the only ones who have never failed are the ones who never tried
+
 
