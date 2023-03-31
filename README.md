@@ -1,31 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Events exercise
-
-an exercise to get an idea on how next.js can combine back and front (pretty neat stuff) 
-this was made to save emails in a json file. so for that to work you will have to run it locally on your machine.
-You can also click the link on the repo to get a general idea of the project but the email stuff won't work!
-
-you can clone the repo and follow the instructions below 
+# Events exersice
 
 
-## Getting Started
+My first next.js thing
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Process:
 
 
+1. Learning all the Next basics
+ 
+ - I first started by understanding the basics,what server side props does what static does, the folder structure, the api folder all that sot of stuff, my priority was not making it pretty but understanding how next work, purdy was a bonus
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+
+2. Node
+Prior to this i had 0 expirience with node, so creating my first api was like woah, and saving stuff in a json was incredible.
 
 
-has to save the repo on like 15 seconds so that's why it was named stuff haha
